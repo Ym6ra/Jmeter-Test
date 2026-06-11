@@ -1,4 +1,6 @@
 # Jmeter-Test
+<![Uploading Снимок экрана 2026-06-11 164849.png…]()
+
 test work on WedTours with Jmeter
 <h4 class="anchor" id="task-rules" data-title="Условия выполнения">Условия выполнения</h4>
 <p>Ключевые действия следует выделять как транзакции, именуя их по установленному образцу (пример: UC2A_T02_login).</p>

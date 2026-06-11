@@ -1,5 +1,7 @@
 # Jmeter-Test
-<![Uploading Снимок экрана 2026-06-11 164849.png…]()
+<img width="1920" height="1032" alt="Снимок экрана 2026-06-11 164849" src="https://github.com/user-attachments/assets/518dc4fc-53c1-4a6c-a1b3-fb18a6bd9bca" />
+<img width="1920" height="1032" alt="Снимок экрана 2026-06-11 164928" src="https://github.com/user-attachments/assets/108e2e6a-1dc2-4ddb-b19b-11d14864c336" />
+
 
 test work on WedTours with Jmeter
 <h4 class="anchor" id="task-rules" data-title="Условия выполнения">Условия выполнения</h4>
